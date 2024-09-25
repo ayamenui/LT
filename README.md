@@ -1,4 +1,4 @@
-<h1 align="center"> <br> <a href="https://github.com/saiteja-madha"><img src="" height="200" alt="Discord.js v14 Bot"></a> <br> LT-bot <br> </h1> <p align="center">いろいろな機能が詰まったdiscord bot!!</p> <br> <p align="center"> <a href="#-リソースリンク">リソースリンク</a> • <a href="#-前提条件">前提条件</a> • <a href="#-使い始めるには">使い始めるには</a> • <a href="#-機能">機能</a> • <a href="#-貢献">貢献</a> </p> <br>
+<h1 align="center"> <br> <a href="https://github.com/saiteja-madha"><img src="docs/.gitbook/assets/OIG3.jpg" height="200" alt="Discord.js v14 Bot"></a> <br> LT-bot <br> </h1> <p align="center">いろいろな機能が詰まったdiscord bot!!</p> <br> <p align="center"> <a href="#-リソースリンク">リソースリンク</a> • <a href="#-前提条件">前提条件</a> • <a href="#-使い始めるには">使い始めるには</a> • <a href="#-機能">機能</a> • <a href="#-貢献">貢献</a> </p> <br>
 🔗 リソースリンク
 
     🤖 bot: [こちらから招待](https://discord.com/oauth2/authorize?client_id=1283692218997276681)
