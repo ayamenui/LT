@@ -1,4 +1,4 @@
-<h1 align="center"> <br> <a href="https://github.com/saiteja-madha"><img src="./docs/.gitbook/assets/strange.png" height="200" alt="Discord.js v14 Bot"></a> <br> Discord.js v14 ボット <br> </h1> <p align="center">管理、オートモデレーション、アニメ、経済、楽しみ、ギブアウェイ、画像、招待、情報、モデレーション、音楽、オーナー、ソーシャル、統計、提案、チケット、ユーティリティーなど、多彩な機能を持つボット！</p> <br> <p align="center"> <a href="#-リソースリンク">リソースリンク</a> • <a href="#-前提条件">前提条件</a> • <a href="#-使い始めるには">使い始めるには</a> • <a href="#-機能">機能</a> • <a href="#-貢献">貢献</a> </p> <br>
+<h1 align="center"> <br> <a href="https://github.com/saiteja-madha"><img src="./docs/.gitbook/assets/strange.png" height="200" alt="Discord.js v14 Bot"></a> <br> LT-bot <br> </h1> <p align="center">管理、オートモデレーション、アニメ、経済、楽しみ、ギブアウェイ、画像、招待、情報、モデレーション、音楽、オーナー、ソーシャル、統計、提案、チケット、ユーティリティーなど、多彩な機能を持つボット！</p> <br> <p align="center"> <a href="#-リソースリンク">リソースリンク</a> • <a href="#-前提条件">前提条件</a> • <a href="#-使い始めるには">使い始めるには</a> • <a href="#-機能">機能</a> • <a href="#-貢献">貢献</a> </p> <br>
 🔗 リソースリンク
 
     🤖 デモボット: こちらから招待
